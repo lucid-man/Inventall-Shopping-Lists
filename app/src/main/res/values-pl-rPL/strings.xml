@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventall Listy Zakupów</string>
+    <string name="your_shopping_lists">Twoje listy zakupów</string>
+    <string name="no_lists_message">Stwórz listę zakupów klikając niebieski przycisk plus.</string>
+    <string name="create_a_list">Stwórz listę</string>
+    <string name="list_name">Nazwa listy</string>
+    <string name="create">Stwórz</string>
+    <string name="list_name_empty_message">Pole nazwa listy nie może być puste!</string>
+    <string name="edit_list">Edytuj listę</string>
+    <string name="save_changes">Zapisz zmiany</string>
+    <string name="delete_list">Usuń listę</string>
+    <string name="hard_delete_list_message">Czy na pewno chcesz usunąć tę listę? (Wszystkie przedmioty, które zawiera także ulegną zniszczeniu.)</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="shopping_list">Lista zakupów</string>
+    <string name="no_items_message">Dodaj przedmioty do swojej listy niebieskim przyciskiem plus.</string>
+    <string name="category15">Warzywa</string>
+    <string name="category14">Ubrania</string>
+    <string name="category13">Słodycze i przekąski</string>
+    <string name="category12">Sypkie</string>
+    <string name="category11">Ryby, owoce morza</string>
+    <string name="category10">Przyprawy</string>
+    <string name="category9">Przetwory</string>
+    <string name="category8">Pieczywo</string>
+    <string name="category7">Owoce</string>
+    <string name="category6">Napoje, soki, woda</string>
+    <string name="category5">Nabiał</string>
+    <string name="category4">Mięso, wędliny</string>
+    <string name="category3">Konserwy</string>
+    <string name="category2">Kawa i herbata</string>
+    <string name="category1">Dania gotowe i sosy</string>
+    <string name="category0">Chemia</string>
+    <string name="add_item">Dodaj przedmiot</string>
+    <string name="item_name">Nazwa przedmiotu</string>
+    <string name="item_name_empty_message">Podaj nazwę przedmiotu</string>
+    <string name="adding_item">Dodawanie przedmiotu</string>
+    <string name="amount_empty_message">Proszę podać ilość</string>
+    <string name="amount">Ilość</string>
+    <string name="tag">Tag</string>
+    <string name="save">Zapisz</string>
+</resources>

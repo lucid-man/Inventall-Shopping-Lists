@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_array">
+        <item>@string/category0</item>
+        <item>@string/category1</item>
+        <item>@string/category2</item>
+        <item>@string/category3</item>
+        <item>@string/category4</item>
+        <item>@string/category5</item>
+        <item>@string/category6</item>
+        <item>@string/category7</item>
+        <item>@string/category8</item>
+        <item>@string/category9</item>
+        <item>@string/category10</item>
+        <item>@string/category11</item>
+        <item>@string/category12</item>
+        <item>@string/category13</item>
+        <item>@string/category14</item>
+        <item>@string/category15</item>
+    </string-array>
+</resources>
